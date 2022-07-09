@@ -1,2 +1,2 @@
 # html-email-template
- An HTML email template with responsiveness.
+ An HTML e-mail template with responsiveness.
