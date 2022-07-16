@@ -10,7 +10,7 @@
 
 ## Optimizations
 
-No additional changes coming. This is a template that cna be used for other HTML e-mail projects that are more company specific.
+No additional changes coming. This is a template that can be used for other HTML e-mail projects that are more company specific.
 
 ## Takeways/New Lessons
 
