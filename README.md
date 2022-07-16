@@ -1,4 +1,4 @@
-# html-email-template
+# HTML E-mail Template
 
 **Link to project:**https://htmltemplatechavisgill.netlify.app/
 
